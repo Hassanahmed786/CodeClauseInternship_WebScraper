@@ -9,5 +9,5 @@ This project is a simple Python web scraper that extracts headlines from a speci
   pip install requests beautifulsoup4
 
 
-coded:Shaik Hassan Ahmed
+coded: Shaik Hassan Ahmed
 
