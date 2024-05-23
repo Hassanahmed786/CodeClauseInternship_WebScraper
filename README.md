@@ -7,3 +7,7 @@ This project is a simple Python web scraper that extracts headlines from a speci
 - **Installation**:
   ```sh
   pip install requests beautifulsoup4
+
+
+coded:Shaik Hassan Ahmed
+codeclause internship
