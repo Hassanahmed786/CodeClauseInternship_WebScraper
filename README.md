@@ -10,4 +10,4 @@ This project is a simple Python web scraper that extracts headlines from a speci
 
 
 coded:Shaik Hassan Ahmed
-codeclause internship
+
