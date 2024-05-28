@@ -8,8 +8,7 @@ This project is a simple Python web scraper that extracts headlines from a speci
   ```sh
   pip install requests beautifulsoup4
 
-
-#site scraped: https://timesofindia.indiatimes.com/
+ - **#site scraped: https://timesofindia.indiatimes.com/
 
 
 coded: Shaik Hassan Ahmed
